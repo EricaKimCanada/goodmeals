@@ -1,0 +1,43 @@
+.rowcart {
+  align-items: flex-start;
+  width: 800px;
+  margin: auto;
+  margin-top: 1%;
+  margin-bottom: 5%;
+  padding-bottom: 4%;
+  background-color: rgb(237, 240, 243);
+}
+
+.rowdisplay {
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: space-between; */
+  align-items: center;
+  justify-content: space-between;
+}
+
+.min-30 {
+  min-width: 30rem;
+}
+
+.imgcart {
+  margin-left: 7.5%;
+  margin-top: 1.5%;
+  margin-right: 7%;
+}
+
+.proceed {
+  display: flex;
+}
+
+.proceedB {
+  float: right;
+}
+
+.price {
+  float: right;
+  padding-right: 3%;
+}
+.cartli {
+  list-style-type: none;
+}

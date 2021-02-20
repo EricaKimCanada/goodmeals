@@ -1,2 +1,3 @@
 # goodmeals
-GoodMeals
+
+GoodMeals: Meal Kit Order System

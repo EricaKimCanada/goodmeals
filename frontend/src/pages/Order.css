@@ -1,0 +1,79 @@
+.porow {
+  width: 800px;
+  margin-left: 15em;
+}
+.mrgauto {
+  width: 800px;
+  margin: auto;
+}
+
+.orderlist {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 1em;
+}
+
+.porow.center {
+  justify-content: center;
+}
+.porow.top {
+  align-items: flex-start;
+}
+.pocol-1 {
+  flex: 1 1 25rem;
+}
+.pocol-2 {
+  flex: 2 1 50rem;
+}
+
+.unli {
+  list-style-type: none;
+}
+
+.orderprice {
+  float: right;
+}
+/* Card */
+.pocard {
+  border: 0.1rem #c0c0c0 solid;
+  background-color: rgb(237, 240, 243);
+  border-radius: 0.5rem;
+  margin: 1rem;
+}
+.pocard-body {
+  padding: 1rem;
+}
+.pocard-body > * {
+  margin-bottom: 0.5rem;
+}
+.poprice {
+  font-size: 2rem;
+}
+
+.alert {
+  padding: 1rem;
+  border: 0.1rem solid transparent;
+  border-radius: 0.5rem;
+}
+.alert-info {
+  color: #0f7060;
+  background-color: #e0e0ff;
+}
+.alert-danger {
+  color: #a02020;
+  background-color: #ffe0e0;
+}
+.alert-success {
+  color: #5120a0;
+  background-color: #eeffe0;
+}
+.orderbutton {
+  margin-top: 2em;
+  text-align: center;
+  width: 45%;
+  margin-left: 27%;
+  margin-top: 12%;
+  align-items: center;
+}

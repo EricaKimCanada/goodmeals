@@ -1,0 +1,13 @@
+/* Form */
+.loginform {
+  max-width: 30rem;
+  margin: 0 auto;
+}
+.loginform > div {
+  display: flex;
+  flex-direction: column;
+  margin: 1rem;
+}
+.loginform label {
+  margin: 1rem 0;
+}

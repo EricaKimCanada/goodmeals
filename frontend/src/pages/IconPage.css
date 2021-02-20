@@ -1,0 +1,28 @@
+.iconinfo {
+  width: 380px;
+  margin-left: 19em;
+  margin-top: 1%;
+  margin-bottom: 5%;
+  margin-left: 40%;
+  padding-bottom: 4%;
+  background-color: rgb(237, 240, 243);
+  padding-left: 4em;
+  padding-top: 2em;
+  border-radius: 0.5rem;
+}
+.emaildiv {
+  display: flex;
+  margin-top: 0.5em;
+}
+.titlelable {
+  width: 22%;
+}
+.msgdiv {
+  display: inline-block;
+  width: 30%;
+}
+.textSize {
+  padding-left: 1em;
+  width: 230px;
+  height: 180px;
+}
