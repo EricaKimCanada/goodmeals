@@ -1,0 +1,39 @@
+.forminfo {
+  width: 380px;
+  margin-left: 19em;
+  margin-top: 1%;
+  margin-bottom: 5%;
+  padding-bottom: 4%;
+  background-color: rgb(237, 240, 243);
+  padding-left: 2em;
+  padding-top: 2em;
+  border-radius: 0.5rem;
+}
+
+.infoform {
+  margin-top: 1em;
+}
+
+.checkbutton {
+  margin-top: 2em;
+  text-align: center;
+  width: 45%;
+  margin-left: 21%;
+}
+.subt {
+  margin-left: 1em;
+}
+.decideinfo {
+  margin-left: 1em;
+  margin-top: 0.5em;
+}
+.infodiv {
+  display: flex;
+  margin-top: 0.5em;
+}
+.infolable {
+  width: 40%;
+}
+.message {
+  margin-top: 2em;
+}

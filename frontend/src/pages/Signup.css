@@ -1,0 +1,13 @@
+/* Form */
+.signupform {
+  max-width: 30rem;
+  margin: 0 auto;
+}
+.signupform > div {
+  display: flex;
+  flex-direction: column;
+  margin: 1rem;
+}
+.signupform label {
+  margin: 1rem 0;
+}
