@@ -1,6 +1,12 @@
-# GoodMeals: Meal Plan Order Application
+# GoodMeals: Meal-Plan Order Application
 
 ### Website Link: https://goodmeals.herokuapp.com/
+
+![gif2](newg2.gif)
+
+## Purpose
+
+This is a personal project.
 
 ## Product Overview
 
@@ -18,8 +24,8 @@ A website targeting locals who are looking to save time and money when it comes 
 ### Diet Plans
 
 - Offers various meal plans ranging from 1 to various people
-- Offers meal plans tailored to various diets for a more customizable experience. Options such as vegan, keto and paleo.
-- A section of popular recipes is available for viewing.
+- Offers meal plans tailored to various diets for a more customizable experience. Options such as vegan, keto, vegetarian and paleo.
+- A Youtube video of popular recipes is available for viewing.
 
 ### Order Systems
 
@@ -28,19 +34,23 @@ A website targeting locals who are looking to save time and money when it comes 
 
 ## Technical Skills
 
-The website is built using React for the front-end and Node.js for the back-end.
 The website is responsive and allow mobile users to also use and place orders.
 
 - React & Redux
-- Node.js & Express: Web API
-- MongoDB: Mongoose, Aggregation
-- HTML5 & CSS3: Material-UI
-- Development: ESLint, Github
-- Deployment: Heroku
+- Node.js & Express
+- MongoDB & Mongoose
+- HTML5 & CSS3 & Material-UI
+- ESLint, Github
+- Heroku
 
 ## How to run
 
-npm install
-npm start
+In the project directory, you can run:
 
-The front-end app runs on localhost:3000.
+1. npm install
+
+   - node_modules will be created.
+
+2. npm start
+   - Runs the app in the development mode.\
+   - Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
