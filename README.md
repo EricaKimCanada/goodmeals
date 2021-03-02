@@ -2,6 +2,8 @@
 
 ### Website Link: https://goodmeals.herokuapp.com/
 
+![gif2](newg2.gif)
+
 ## Product Overview
 
 A website targeting locals who are looking to save time and money when it comes to their meals. Making use of our locally sourced ingredients, they have the option to purchase premade meals or prepped meal ingredients with recipes. Users are able to choose product delivery or pick-up for added convenience.
@@ -42,8 +44,9 @@ The website is responsive and allow mobile users to also use and place orders.
 In the project directory, you can run:
 
 1. npm install
-   node_modules will be created.
+
+   - node_modules will be created.
 
 2. npm start
-   Runs the app in the development mode.\
-   Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+   - Runs the app in the development mode.\
+   - Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
