@@ -4,6 +4,10 @@
 
 ![gif2](newg2.gif)
 
+## Purpose
+
+This is a personal project.
+
 ## Product Overview
 
 A website targeting locals who are looking to save time and money when it comes to their meals. Making use of our locally sourced ingredients, they have the option to purchase premade meals or prepped meal ingredients with recipes. Users are able to choose product delivery or pick-up for added convenience.
