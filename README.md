@@ -6,7 +6,7 @@
 
 ## Purpose
 
-This is a personal project.
+This is a school project.
 
 ## Product Overview
 
