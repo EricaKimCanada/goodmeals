@@ -1,4 +1,4 @@
-# GoodMeals: Meal-Plan Order Application
+# GoodMeals: Meal-Kit Order Application
 
 ### Website Link: https://goodmeals.herokuapp.com/
 
