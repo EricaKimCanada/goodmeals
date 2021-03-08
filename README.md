@@ -1,4 +1,4 @@
-# GoodMeals: Meal-Plan Order Application
+# GoodMeals: Meal-Kit Order Application
 
 ### Website Link: https://goodmeals.herokuapp.com/
 
@@ -6,7 +6,7 @@
 
 ## Purpose
 
-This is a personal project.
+This is a school project.
 
 ## Product Overview
 
